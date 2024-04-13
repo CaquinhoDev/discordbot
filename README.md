@@ -11,8 +11,9 @@
  
  https://chromedriver.chromium.org/downloads
 
-![image](https://github.com/Pedrindogithub12121/discordbot/assets/157772318/ff9cbf93-1d73-483b-ba63-c75fd79153d5)
+![image](https://github.com/CaquinhoDev/discordbot/assets/166941412/d1a6ac9e-ffa9-4453-a9c2-9ee132b670f6)
 
-![image](https://github.com/Pedrindogithub12121/discordbot/assets/157772318/f4023b10-9b69-41e5-81ac-ecedb3b2503d)
+![image](https://github.com/CaquinhoDev/discordbot/assets/166941412/d281948f-d9cc-4149-886e-73aeef3a7636)
 
-![image](https://github.com/Pedrindogithub12121/discordbot/assets/157772318/467ada77-2a6d-434c-b7ae-ff3bdfac06c2)
+![image](https://github.com/CaquinhoDev/discordbot/assets/166941412/56b19737-ab73-40cb-aa5a-6d71c13f7d2f)
+
